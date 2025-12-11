@@ -1,2 +1,3 @@
-# tech515-rhys-tf-created-repo
-Repository created with Terraform
+# Terraform Created Repo
+
+This repo was created using Terraform.
